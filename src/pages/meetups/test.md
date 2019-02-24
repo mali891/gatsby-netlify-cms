@@ -1,6 +1,6 @@
 ---
 templateKey: meetup
-title: Test
+title: February 2019
 date: 2019-02-24T10:19:23.464Z
 presenters:
   - image: /img/jonas-kakaroto-577554-unsplash.jpg
