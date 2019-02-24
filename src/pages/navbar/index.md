@@ -10,8 +10,5 @@ menuItems:
   - label: past meetups
     linkType: internal
     linkURL: /meetups
-  - label: Github
-    linkType: external
-    linkURL: google.com
 ---
 
