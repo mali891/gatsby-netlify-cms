@@ -1,8 +1,8 @@
 # Gatsby & Netlify CMS Example
 
-## Test site deployed from https://blog.logrocket.com/gatsby-netlify-cms-a-perfect-pairing-d50d59d16f67
+## Test site deployed from: https://blog.logrocket.com/gatsby-netlify-cms-a-perfect-pairing-d50d59d16f67
 
-## https://inspiring-edison-efdc7d.netlify.com/
+## Demo: https://inspiring-edison-efdc7d.netlify.com/
 
 An example website built using Gatsby V2 and Netlify CMS. The website is a fake JavaScript meetup site that lists upcoming meetups, information about the meetup group, as well as a list of past meetups.
 
